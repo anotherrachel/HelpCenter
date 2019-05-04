@@ -4,11 +4,11 @@ Common errors and the steps needed to troubleshoot them are listed here. If you�
 
 If you see “page 0” cross-references in the PDF, the URL doesn’t exist. Check to make sure you actually included this page in the build.
 
-If it’s not a page but rather a file, you need to add a `noCrossRef` class to the file so that your print stylesheet excludes the counter from it. Add `class="noCrossRef"` as an attribute to the link. In the css/printstyles.css file, there is a style that should remove the counter from anchor elements with this class.
+If it’s not a page but rather a file, you need to add a `noCrossRef` class to the file so that your print stylesheet excludes the counter from it. Add `class="noCrossRef"` as an attribute to the link. In the *css/printstyles.css* file, there is a style that should remove the counter from anchor elements with this class.
 
 # The PDF is blank
 
-Check the prince-list.txt file in the output to see if it contains links. If not, you have something wrong with the logic in the prince-list.txt file. Check the conditions.html file in your _includes to see if the audience specified in your configuration file aligns with the buildAudience in the conditions.html file
+Check the prince-list.txt file in the output to see if it contains links. If not, you have something wrong with the logic in the *prince-list.txt* file. Check the *conditions.html* file in your *_includes* to see if the audience specified in your configuration file aligns with the buildAudience in the *conditions.html* file
 
 # Sidebar isn't appearing
 
@@ -22,7 +22,6 @@ pdf_sidebar: product2_sidebar
 
 Make sure each TOC item has an output property that specifies web or pdf.
 
-Understanding how the theme works can be helpful in troubleshooting. The _includes/sidebar.html file loops through the values in the _data/sidebar.yml file. There are `if` statements that check whether the conditions (as specified in the conditions.html file) are met. If the sidebar.yml item doesn’t have the right output, then it won’t get displayed in the sidebar. It would instead get skipped.
 
 # Sidebar isn’t collapsed
 
@@ -30,4 +29,4 @@ If the sidebar levels aren’t collapsed, usually your JavaScript is broken some
 
 # Search isn’t working
 
-If the search isn’t working, check the JSON validity in the search.json file in your output folder. Usually something is invalid. Identify the problematic line, fix the file, or put `search: exclude` in the frontmatter of the file to exclude it from search.
+If the search isn’t working, check the JSON validity in the *search.json* file in your output folder. Usually something is invalid. Identify the problematic line, fix the file, or put `search: exclude` in the frontmatter of the file to exclude it from search.
