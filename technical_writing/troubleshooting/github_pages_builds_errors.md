@@ -1,3 +1,5 @@
+# GitHub Pages Builds Errors
+
 If your GitHub Pages site fails to build on our servers or encounters other errors, you can troubleshoot your build error by reviewing common problems or specific error messages. You can also view Jekyll build error messages by email, in your repository, on the command line.
 
 Common errors occurred in GitHub Pages builds and steps needed to troubleshoot are provided, click the following for more details.
