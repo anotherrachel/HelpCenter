@@ -2,7 +2,7 @@
 
 > Common errors and the steps needed to troubleshoot them are listed here. If you’re using a PC, rename your shell files with a .bat extension.
 
-## “page 0” cross references in the PDF
+## "page 0" cross references in the PDF
 
 If you see “page 0” cross-references in the PDF, the URL doesn’t exist. Check to make sure you actually included this page in the build.
 

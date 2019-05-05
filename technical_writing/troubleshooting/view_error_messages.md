@@ -14,7 +14,7 @@ You can view all Jekyll build error messages by email if you have your email set
 
 > **Note:** Generic build failures will not produce an email with specific file and error information. If you receive an email that simply says "Page build failed" with no further details, or your GitHub Pages site is not showing up after the first push, check for [Generic build failures](generic_build_failures.md). 
 
-## View in your repo
+## View in your repository
 
 You can view Jekyll build failure messages in the repository settings of your GitHub Pages site.
 
