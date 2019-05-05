@@ -104,24 +104,28 @@ h6 code {
 }
 h1 {
     padding-bottom: .3em;
+    font-size: 1.75em;
+    line-height: 1.2;
+    border-bottom: 2px solid #eee;
+    color: darkblue;
+}
+h2 {
+  padding-bottom: .3em;
     font-size: 1.3em;
     line-height: 1.2;
     border-bottom: 1px solid #eee;
     color: royalblue;
 }
-h2 {
-   padding-bottom: .3em;
+h3 {
+     padding-bottom: .3em;
     font-size: 1.1em;
     line-height: 1.225;
     color: cornflowerblue;
 }
-h3 {
+h4 {
     font-size: 1em;
     line-height: 1.43;
     color: #777;
-}
-h4 {
-    font-size: 0.7em;
 }
 h5 {
     font-size: 0.6em;
