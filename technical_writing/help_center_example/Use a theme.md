@@ -4,7 +4,7 @@
 
 For a help center , download the `Less Or More` theme from http://jekyllthemes.org/
 
-![1556972713607](https://github.com/anotherrachel/HelpCenter/tree/master/technical_writing/help_center_example/photos/1556972713607.png)
+![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556972713607.png)
 
 
 
@@ -32,5 +32,4 @@ jekyll serve
 
 You can see the result in browser URL`http://127.0.0.1:4000/`.
 
-![1556976873233](https://github.com/anotherrachel/HelpCenter/tree/master/technical_writing/help_center_example/photos/1556977861439.png)
-
+![1556976873233](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556977861439.png)
