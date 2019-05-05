@@ -19,11 +19,11 @@ github_username:
 
 Codes of `_config.yml` are like this:
 
-![1556973202572](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556973202572.png)
+![1556973202572](https://github.com/anotherrachel/HelpCenter/tree/master/technical_writing/help_center_example/photos/1556973202572.png)
 
 Refresh the website.
 
-![1556978117307](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556978117307.png)
+![1556978117307](https://github.com/anotherrachel/HelpCenter/tree/master/technical_writing/help_center_example/photos/1556978117307.png)
 
 
 
