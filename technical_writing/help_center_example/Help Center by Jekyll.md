@@ -20,7 +20,7 @@
 
   For a help center , download the `Less Or More` theme from http://jekyllthemes.org/
 
-  ![1556972713607](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556972713607.png)
+  ![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556972713607.png)
 
   
 
@@ -48,7 +48,7 @@
 
   You can see the result in browser URL`http://127.0.0.1:4000/`.
 
-  ![1556976873233](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556977861439.png)
+  ![1556976873233](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556977861439.png)
 
   
 
@@ -73,11 +73,11 @@ github_username:
 
 Codes of `_config.yml` are like this:
 
-![1556973202572](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556973202572.png)
+![1556973202572](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556973202572.png)
 
 Refresh the website.
 
-![1556978117307](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556978117307.png)
+![1556978117307](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556978117307.png)
 
 
 
@@ -85,21 +85,21 @@ Refresh the website.
 
 Codes of header and left tree are like this:
 
-![1556975830448](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556975830448.png)
+![1556975830448](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556975830448.png)
 
-![1556975881769](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556975881769.png)
+![1556975881769](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556975881769.png)
 
 Refresh the website.
 
-![1556975989581](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556975989581.png)
+![1556975989581](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556975989581.png)
 
 Codes of footer are like this:
 
-![1556975750855](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556975792005.png)
+![1556975750855](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556975792005.png)
 
 Refresh the website.
 
-![1556976090610](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556976090610.png)
+![1556976090610](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556976090610.png)
 
 
 
@@ -131,13 +131,13 @@ This is the body part.# Body part uses Markdown syntax.
 
 Codes of new file named `2018-05-04-origin-documents` are like this:
 
-![1556973984895](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556974058592.png)
+![1556973984895](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556974058592.png)
 
 
 
 You can see final result in browser URL`http://localhost:4000/`.
 
-![1556974189741](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556974189741.png)
+![1556974189741](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556974189741.png)
 
-![1556974313451](C:\Users\goodluck\AppData\Roaming\Typora\typora-user-images\1556974313451.png)
+![1556974313451](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556974313451.png)
 
