@@ -1,4 +1,4 @@
-# Blogs / News
+<h1 id="title1">Blogs / News</h1>
 
 For blog posts, create your markdown files in the _posts folder following the sample formats. Post file names always begin with the date (YYYY-MM-DD-title).
 

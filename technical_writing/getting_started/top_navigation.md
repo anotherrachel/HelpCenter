@@ -1,4 +1,4 @@
-## Top navigation
+<h2 id="title1">Top navigation</h2>
 
 The top navigation works just like the sidebar. You can specify which topnav data file should load by adding a `topnav` property in your page, like this:
 
@@ -23,7 +23,7 @@ Because most topnav options will be the same, the `_config.yml` file specifies t
     topnav: topnav
 ```
 
-## Configure the top navigation
+<h2 id="title2">Configure the top navigation</h2>
 
 The top navigation bar’s menu items are set through the *_data/topnav.yml* file. Use the top navigation bar to provide links for navigating from one product to another, or to navigate to external resources.
 

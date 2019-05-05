@@ -1,4 +1,4 @@
-## Configure the sidebar
+<h2 id="title1">Configure the sidebar</h2>
 
 There are several products in this theme. Each product uses a different sidebar. This is the essence of what makes this theme unique – different sidebars for different product documentation. The idea is that when users are reading documentation for a specific product, the sidebar navigation should be specific to that product. (You can read more of my thoughts on why multiple sidebars are important in this [blog post](http://idratherbewriting.com/2016/03/23/release-of-documentation-theme-for-jekyll-50/).)
 
@@ -56,7 +56,7 @@ If you want to set different sidebar defaults based on different folders for you
 
 This would load the `mydoc_sidebar` for each file in **pages/mydoc**. You could set different defaults for different path scopes.
 
-## Sidebar syntax
+<h2 id="title2">Sidebar syntax</h2>
 
 The sidebar data file uses a specific YAML syntax that you must follow. Follow the sample pattern shown in the theme, specically looking at `mydoc_sidebar.yml` as an example: Here’s a code sample showing all levels:
 

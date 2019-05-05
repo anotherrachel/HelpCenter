@@ -1,8 +1,8 @@
-# Links
+<h1 id="title1">Links</h1>
 
 > **Summary:** When creating links, you can use standard HTML or Markdown formatting. However, you can also implement an automated approach to linking that makes linking much less error-prone (meaning less chances of broken links in your output) and requiring less effort.
 
-## Create an external link
+<h2 id="title2">Create an external link</h2>
 
 When linking to an external site, use Markdown formatting because it’s simplest:
 
@@ -10,7 +10,7 @@ When linking to an external site, use Markdown formatting because it’s simples
 [Google](http://google.com)
 ```
 
-## Linking to internal pages
+<h2 id="title3">Linking to internal pages</h2>
 
 When linking to internal pages, you can manually link to the pages like this:
 
@@ -20,7 +20,7 @@ When linking to internal pages, you can manually link to the pages like this:
 
 However, if you change the file name, you’ll have to update all of your links. It’s much easier to use Automated links, as described in the next section.
 
-## Automated links
+<h2 id="title4">Automated links</h2>
 
 This method for automated links creates a master list of all links in a Markdown reference format based on entries in your sidebar table of contents.
 
@@ -61,7 +61,7 @@ To implement managed links:
 
    If the link doesn’t render, check to make sure the page is correctly listed in the sidebar.
 
-## Automated links to headings on pages
+<h2 id="title5">Automated links to headings on pages</h2>
 
 If you’re linking to the specific heading from another page, first give the heading an ID:
 

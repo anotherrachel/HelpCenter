@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Generate PDFs",
+        "id": "title1"
+    },
+    {
+        "title": "PDF overview",
+        "id": "title2"
+    },
+    {
+        "title": "Demo",
+        "id": "title3"
+    },
+    {
+        "title": "1. Set up Prince",
+        "id": "title4"
+    },
+    {
+        "title": "2. Create a new configuration file for each of your PDF targets",
+        "id": "title5"
+    },
+    {
+        "title": "3. Make sure your sidebar data file has titlepage.html and tocpage.html entries",
+        "id": "title6"
+    },
+    {
+        "title": "4. Customize your headers and footers",
+        "id": "title7"
+    },
+    {
+        "title": "5. Customize and run the PDF script",
+        "id": "title8"
+    },
+    {
+        "title": "6. Add conditions for your new builds in the PDF config file",
+        "id": "title9"  
+    },
+    {
+        "title": "7. Add a download button for the PDF",
+        "id": "title10"  
+    },
+    {
+        "title": "JavaScript conflicts",
+        "id": "title11" 
+    },
+    {
+        "title": "Overriding Bootstrap Print Styles",
+        "id": "title12"  
+    }
+]
+
+
