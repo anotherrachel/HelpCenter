@@ -23,7 +23,7 @@ gem install bundler
 
 You’ll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with your project. Bundler sorts out dependencies and installs missing gems or matches up gems with the right versions based on gem dependencies.
 
-<h2 id="title5">4. Option 1: Build the Theme (*without* the github-pages gem)</h2>
+<h2 id="title5">4. Option 1: Build the Theme (without the github-pages gem)</h2>
 
 Use this option if you’re not planning to publish your Jekyll site using [Github Pages](https://pages.github.com/).
 
@@ -44,7 +44,7 @@ Now run jekyll serve (first change directories (`cd`) to where you downloaded th
 jekyll serve
 ```
 
-<h2 id="title6">4. Option 2: Build the Theme (*with* the github-pages gem)</h2>
+<h2 id="title6">4. Option 2: Build the Theme (with the github-pages gem)</h2>
 
 If you *are* in fact publishing on Github Pages, leave the *Gemfile* and *Gemfile.lock* files in the theme.The *Gemfile* tells Jekyll to use the github-pages gem. **However, note that you cannot use the normal jekyll serve command with this gem due to dependency conflicts between the latest version of Jekyll and Github Pages** (which are noted [briefly here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)).
 
