@@ -41,7 +41,7 @@ For now, you should already have Jekyll installed on your machine. If not, pleas
 
 - Build the theme
 
-Now open your terminal(For Mac, press command+space, and input "terminal"; for Windows, press win+r, and input cmd), and type
+Now open your terminal (For Mac, press command+space, and input "terminal"; for Windows, press win+r, and input cmd), and type:
 ```
 cd desktop/LessOrMore-master
 jekyll serve
