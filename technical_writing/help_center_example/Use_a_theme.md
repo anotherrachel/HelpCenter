@@ -14,7 +14,9 @@ For now, your desktop should have a folder like this:
 
 - Install Jekyll and Bundler:
 
-For now, you should already have Jekyll installed on your machine. If not, please turn to (链接到前面的帮助文档)
+For now, you should already have Jekyll installed on your machine. If not, please turn to [installation](https://github.com/anotherrachel/HelpCenter/tree/master/technical_writing/installation)
+
+or click the url below for more instructions:
 
 [Install Jekyll on Mac](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_mac.html)
 
