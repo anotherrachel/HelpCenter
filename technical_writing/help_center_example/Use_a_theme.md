@@ -1,4 +1,4 @@
-<h3 id="4.1">Use a theme</h3>
+<h1 id="4.1">Use a theme</h1>
 
 - Download a theme.
 
