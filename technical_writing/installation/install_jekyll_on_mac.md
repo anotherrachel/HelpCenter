@@ -136,7 +136,7 @@ To resolve the “No Github API authentication” error:
 
    Replace `abc123...` with your own token that you generated in step 1.
 
-4. Go to **[https://curl.haxx.se/ca/cacert.pem][https://curl.haxx.se/ca/cacert.pem]. Right-click the page, select \*\*Save as**, and save the file on your computer (save it somewhere safe, where you won’t delete it). Name the file **cacert**.
+4. Go to **[https://curl.haxx.se/ca/cacert.pem]  [https://curl.haxx.se/ca/cacert.pem]. Right-click the page, select \*\*Save as**, and save the file on your computer (save it somewhere safe, where you won’t delete it). Name the file **cacert**.
 
 5. Open your *.bash_profile* file again and add this line, replacing `Users/johndoe/projects/` with the path to your *cacert.pem* file:
 
