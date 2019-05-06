@@ -1,4 +1,4 @@
-# offline viewing
+<h1>offline viewing</h1>
 
 This theme uses relative links throughout so that you can view the site offline and not worry about which server or directory you’re hosting it. It’s common with tech docs to push content to an internal server for review prior to pushing the content to an external server for publication. Because of the need for seamless transferrence from one host to another, the site has to use relative links.
 
