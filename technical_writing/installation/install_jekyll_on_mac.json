@@ -1,9 +1,5 @@
 [
     {
-        "title": "Install Jekyll on Mac",
-        "id": "title1"
-    },
-    {
         "title": "Ruby and RubyGems",
         "id": "title2"
     },
@@ -28,7 +24,7 @@
         "id": "title7"
     },
     {
-        "title": "Resolve ¡°No Github API authentication¡± errors",
+        "title": "Resolve Â¡Â°No Github API authenticationÂ¡Â± errors",
         "id": "title8"
     }
 ]
