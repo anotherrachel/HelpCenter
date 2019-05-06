@@ -5,12 +5,15 @@
 For a help center , download the `Less Or More` theme from http://jekyllthemes.org/, unzip it and save it on desktop.
 
 ![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556972713607.png)
+
 For now, your desktop should have a folder like this:
+
 ![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/desktop.png)
 
 
 
 - Install Jekyll and Bundler:
+
 For now, you should already have Jekyll installed on your machine. If not, please turn to (链接到前面的帮助文档)
 
 [Install Jekyll on Mac](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_mac.html)
@@ -21,6 +24,7 @@ For now, you should already have Jekyll installed on your machine. If not, pleas
 
 
 - Build the theme
+
 Now open your terminal(For Mac, press command+space, and input "terminal"; for Windows, press win+r, and input cmd), and type
 ```
 cd desktop/LessOrMore-master
