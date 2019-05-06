@@ -1,4 +1,3 @@
-* [4 Help Center by Jekyll](#4)
 
 * [4.1 Use a theme](#4.1)
 
@@ -10,11 +9,7 @@
 
   
 
-  ##  <h2 id="4">Help Center by Jekyll</h2>
-
-  Build a static website  `help center` by Jekyll.
-
- <h3 id="4.1">Use a theme</h3>
+ <h1 id="4.1">Use a theme</h1>
 
 - Download a theme.
 
@@ -55,7 +50,7 @@ You can see the result in your browser at`http://127.0.0.1:4000/`.
 
   
 
-  <h3 id="4.2">Modify the configuration</h3>
+  <h1 id="4.2">Modify the configuration</h1>
 
    Change  following parts in`_config.yml`，open it with  text editor like `WordPad` or visual code.
 
@@ -84,7 +79,7 @@ Refresh the website.
 
 
 
-<h3 id="4.3">Change header, left tree, footer</h3>
+<h1 id="4.3">Change header, left tree, footer</h1>
 
 Codes of header and left tree are like this:
 
@@ -106,7 +101,7 @@ Refresh the website.
 
 
 
-<h3 id="4.4">Add files</h3>
+<h1 id="4.4">Add files</h1>
 
  Add files under the ` LessOrMore / _posts ` directory . Paste the following information,  modify  ` titile `, ` date `, ` categories `, ` tag ` information, and add ` * content {: toc} ` for directory information.
 
