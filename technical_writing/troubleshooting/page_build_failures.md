@@ -2,7 +2,7 @@
 
 > Page build failures with specific error messages are listed, check for these errors.
 
-## "Page build failed: Missing docs folder"
+<h2 id="title1">"Page build failed: Missing docs folder"</h2>
 
 If you have the master branch /docs folder source setting enabled and your /docs folder with your site's source files was removed from the root of your repository on the master branch, your GitHub Pages site will not build.
 
@@ -15,7 +15,7 @@ If your `/docs` folder was deleted, you must either:
 - recreate a `/docs` folder in the root of your repository on the `master` branch and add or recreate your site's source files in this folder
 - change the source settings to `gh-pages` or the `master` branch and add or recreate your site's source files on the `gh-pages` or `master` branch
 
-## "Page build failed: Markdown errors"
+<h2 id="title2">"Page build failed: Markdown errors"</h2>
 If your GitHub Pages code contains Markdown errors, your GitHub Pages site will not build.
 
 ### Troubleshooting Markdown errors
@@ -26,7 +26,7 @@ Make sure the file in question uses valid Markdown syntax.
 
 Once you've fixed any Markdown errors, you will need to commit your changes and push to your GitHub Pages repository again to trigger another build on the server.
 
-## "Page build failed: Config file error"
+<h2 id="title3">"Page build failed: Config file error"</h2>
 If the *_config.yml* file in your GitHub Pages repository has syntax errors, your GitHub Pages site will not build.
 
 ### Troubleshooting *_config.yml* syntax errors
@@ -53,7 +53,7 @@ Use a YAML linter, such as <http://codebeautify.org/yaml-validator>, to validate
 
 Once you've fixed any syntax errors in your *_config.yml* file, you will need to commit your changes and push to your GitHub Pages repository again to trigger another build on our servers.
 
-## "Page build failed: File does not exist in includes directory"
+<h2 id="title4">"Page build failed: File does not exist in includes directory"</h2>
 If your GitHub Pages code references a file that doesn't exist in your _includes directory, your GitHub Pages site will not build.
 
 ### Troubleshooting a nonexistent file error
@@ -63,7 +63,7 @@ If your GitHub Pages code references a file that doesn't exist in your _includes
 3. If you've referenced any files that aren't in the *_includes* directory of your GitHub Pages repository, you will need to copy or move them into the *_includes* directory. If the files don't exist at all, you will need to create them.
 4. Commit the changes and push them to your GitHub Pages repository to trigger another build on the server.
 
-## "Page build failed: File is not properly UTF-8 encoded"
+<h2 id="title5">"Page build failed: File is not properly UTF-8 encoded"</h2>
 If your GitHub Pages repository contains a file that is not properly UTF-8 encoded, your GitHub Pages site will not build.
 
 ### Troubleshooting UTF-8 encoding errors
@@ -74,7 +74,7 @@ To force UTF-8 encoding, add the following line to your *_config.yml* file:`enco
 
 After you make this change, you will need to commit your changes and push to your Pages repository on GitHub to trigger another build on the server.
 
-## "Page build failed: Invalid post date"
+<h2 id="title6">"Page build failed: Invalid post date"</h2>
 If your GitHub Pages repository contains a post with an invalid date, your GitHub Pages site will not build.
 
 ### Troubleshooting post date errors
@@ -84,7 +84,7 @@ If your GitHub Pages repository contains a post with an invalid date, your GitHu
 
 Once you've fixed all post date errors, you will need to commit your changes and push to your GitHub Pages repository again to trigger another build on the server.
 
-## "Page build failed: Invalid YAML in data file"
+<h2 id="title7">"Page build failed: Invalid YAML in data file"</h2>
 If one or more files in the _data folder of your GitHub Pages site contains invalid YAML, your GitHub Pages site will not build.
 
 ### Troubleshooting YAML parsing errors
