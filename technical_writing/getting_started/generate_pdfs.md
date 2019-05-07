@@ -1,4 +1,4 @@
-<h1 id="title1">Generate PDFs</h1>
+<h1>Generate PDFs</h1>
 
 > **Summary:** You can generate a PDF from your Jekyll project. You do this by creating a web version of your project that is printer friendly. You then use utility called Prince to iterate through the pages and create a PDF from them. It works quite well and gives you complete control to customize the PDF output through CSS, including page directives and dynamic tags from Prince.
 
@@ -63,7 +63,7 @@ Download and install [Prince](http://www.princexml.com/doc/installing/).
 
 You can install a fully functional trial version. The only difference is that the title page will have a small Prince PDF watermark.
 
-<h2 id="title5">2. Create a new configuration file for each of your PDF targets</h2>
+<h2 id="title5">2. Create a new configuration file</h2>
 
 The PDF configuration file will build on the settings in the regular configuration file but will some additional fields. Here’s the configuration file for the mydoc product within this theme. This configuration file is located in the pdfconfigs folder.
 
@@ -100,7 +100,7 @@ In the configuration file, customize the values for the `print_title` and `print
 
 We will access this configure file in the PDF generation script.
 
-<h2 id="title6">3. Make sure your sidebar data file has titlepage.html and tocpage.html entries</h2>
+<h2 id="title6">3. Titlepage.html and tocpage.html entries</h2>
 
 There are two template pages in the root directory that are critical to the PDF:
 
@@ -132,7 +132,7 @@ There’s another file (in the root directory of the theme) that is critical to 
 
 > **Note:** If you have any files that you do not want to appear in the PDF, add `output: web` (rather than `output: pdf`) in the list of attributes in your sidebar. The prince-list.txt file that loops through the mydoc_sidebar.yml file to grab the URLs of each page that should appear in the PDF will skip over any items that do not list `output: pdf` in the item attributes. For example, you might not want your tag archives to appear in the PDF, but you probably will want to list them in the online help navigation.
 
-<h2 id="title7">4. Customize your headers and footers</h2>
+<h2 id="title7">4. Customize headers and footers</h2>
 
 Open up the *css/printstyles.css* file and customize what you want for the headers and footers. At the very least, customize the email address (`youremail@domain.com`) that appears in the bottom left.
 
@@ -348,7 +348,7 @@ Make sure that the path to the prince-list.txt is correct. For the output direct
 
 > **Note:** You might not want to include the PDF in your project files, since you’re likely committing the PDF to Github and as a result saving the changes from one PDF version to another with each save.
 
-<h2 id="title9">6. Add conditions for your new builds in the PDF config file</h2>
+<h2 id="title9">6. Add conditions for new builds</h2>
 
 In the PDF configuration file, there’s a section that looks like this:
 
@@ -362,7 +362,7 @@ Point to the sidebar you want here.
 
 What this does is allow the *prince-list.txt* and *toc.html* files to iterate through the right sidebar. Otherwise, you would need to create a unique prince-list.txt and *toc.html* file for each separate PDF output you have.
 
-<h2 id="title10">7. Add a download button for the PDF</h2>
+<h2 id="title10">7. Add a download button</h2>
 
 You can add a download button for your PDF using some Bootstrap button code:
 

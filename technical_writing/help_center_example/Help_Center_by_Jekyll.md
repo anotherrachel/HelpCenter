@@ -1,4 +1,3 @@
-* [4 Help Center by Jekyll](#4)
 
 * [4.1 Use a theme](#4.1)
 
@@ -10,49 +9,48 @@
 
   
 
-  ##  <h2 id="4">Help Center by Jekyll</h2>
+ <h1 id="4.1">Use a theme</h1>
 
-  Build a static website  `help center` by Jekyll.
+- Download a theme.
 
-  <h3 id="4.1">Use a theme</h3>
+For a help center , download the `Less Or More` theme from http://jekyllthemes.org/, unzip it and save it on desktop.
 
-  - Download a theme.
+![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556972713607.png)
 
-  For a help center , download the `Less Or More` theme from http://jekyllthemes.org/
+For now, your desktop should have a folder like this:
 
-  ![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556972713607.png)
+![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/desktop.png)
+
+
+
+- Install Jekyll and Bundler:
+
+For now, you should already have Jekyll installed on your machine. If not, please turn to [installation](https://github.com/anotherrachel/HelpCenter/tree/master/technical_writing/installation)
+
+or click the url below for more instructions:
+
+[Install Jekyll on Mac](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_mac.html)
+
+[Install Jekyll on Windows](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_windows.html)
+
+
+
+
+- Build the theme
+
+Now open your terminal (For Mac, press command+space, and input "terminal"; for Windows, press win+r, and input cmd), and type:
+```
+cd desktop/LessOrMore-master
+jekyll serve
+```
+
+You can see the result in your browser at`http://127.0.0.1:4000/`.
+
+![1556976873233](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556977861439.png)
 
   
 
-  - Install Jekyll:
-
-  [Install Jekyll on Mac](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_mac.html)
-
-  [Install Jekyll on Windows](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_windows.html)
-
-  
-
-  - install Bundler
-
-  ```
-  gem install bundler
-  ```
-
-  
-
-  - Run jekyll serve 
-
-  ```
-  jekyll serve
-  ```
-
-  You can see the result in browser URL`http://127.0.0.1:4000/`.
-
-  ![1556976873233](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556977861439.png)
-
-  
-
-  <h3 id="4.2">Modify the configuration</h3>
+  <h1 id="4.2">Modify the configuration</h1>
 
    Change  following parts in`_config.yml`，open it with  text editor like `WordPad` or visual code.
 
@@ -81,7 +79,7 @@ Refresh the website.
 
 
 
-<h3 id="4.3">Change header, left tree, footer</h3>
+<h1 id="4.3">Change header, left tree, footer</h1>
 
 Codes of header and left tree are like this:
 
@@ -103,7 +101,7 @@ Refresh the website.
 
 
 
-<h3 id="4.4">Add files</h3>
+<h1 id="4.4">Add files</h1>
 
  Add files under the ` LessOrMore / _posts ` directory . Paste the following information,  modify  ` titile `, ` date `, ` categories `, ` tag ` information, and add ` * content {: toc} ` for directory information.
 

@@ -1,4 +1,4 @@
-- <h3 id="4.2">Modify the configuration</h3>
+- <h1 id="4.2">Modify the configuration</h1>
 
    Change  following parts in`_config.yml`，open it with  text editor like `WordPad` or visual code.
 

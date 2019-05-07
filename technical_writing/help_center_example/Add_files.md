@@ -1,6 +1,6 @@
 
 
-<h3 id="4.4">Add files</h3>
+<h1 id="4.4">Add files</h1>
 
  Add files under the ` LessOrMore / _posts ` directory . Paste the following information,  modify  ` titile `, ` date `, ` categories `, ` tag ` information, and add ` * content {: toc} ` for directory information.
 
