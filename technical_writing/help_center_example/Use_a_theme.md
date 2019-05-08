@@ -6,9 +6,7 @@ For a help center , download the `Less Or More` theme from http://jekyllthemes.o
 
 ![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/1556972713607.png)
 
-For now, your desktop should have a folder like this:
 
-![1556972713607](https://github.com/anotherrachel/HelpCenter/blob/master/technical_writing/help_center_example/photos/desktop.png)
 
 
 
